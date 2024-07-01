@@ -1,0 +1,25 @@
+# Projet Power BI : Analyse des facteurs qui influencent le prix des Locations à New York
+
+## Description du Projet
+Ce projet Power BI analyse les données de location à New York pour identifier les tendances et les facteurs influençant les prix de location dans différents quartiers. Le rapport comprend des visualisations interactives pour aider à comprendre les dynamiques du marché immobilier.
+
+## Objectifs
+- Identifier les tendances des prix de location par quartier.
+- Analyser les facteurs influençant les prix, note(nombre d'étoiles), type de logements  et des commodités(parcs).
+- Fournir des insights exploitables pour les locataires et les investisseurs.
+
+## Données Utilisées
+- **Source :** Données de location provenant de fournis par le Centre de formation.
+- **Période :** 2008 - 2015
+
+## Visualisations Principales
+- Relations entre le score et le prix des chambres
+- Relations entre les grades et le prix
+- Graphique des tendances de prix en fonction des notes et le type de logement
+- Analyse des facteurs influençant les prix (type de logement, notes etc.
+ 
+## Utilisation
+Pour explorer le rapport Power BI, téléchargez le fichier ".pbix" et ouvrez-le avec Power BI Desktop.
+
+## Contact
+Pour toute question, contactez-moi à cisseadamataleb@gmail.com ou connectez-vous sur [LinkedIn](https://www.linkedin.com/in/adama-cisse-83454016a/).
